@@ -1,0 +1,218 @@
+<template>
+  
+<div id="app">
+
+  <section class="hero is-warning is-fullheight">
+    <div class="hero-head">
+      <nav class="navbar">
+	<div class="container">
+	  <div class="navbar-brand">
+	    <a class="navbar-item"> <strong> [LOGO] AYA </strong></a>
+	    <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+	      <span></span>
+	      <span></span>
+	      <span></span>
+	    </span>
+	  </div>
+	</div>
+      </nav>
+    </div>
+
+    <div class="hero-body">
+      <div class="container has-text-centered">
+	<h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
+	<h2 class="subtitle"> wanna code a population of finite state machines playing games ? with stochasmagically intelligent agents ? in LISP ? </h2>
+	<a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
+	  Join #houseAYA on Discord</a>
+	<p>we welcome beautiful minds</p>
+      </div>
+    </div>
+
+    </section>
+				 
+	  
+
+    <article class="message is-light">
+    <div class="message-header">
+      <p> First principle </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that big project garden, I sow my own project: a game theory class.
+      
+
+    </div>
+    </article>
+
+
+    
+  <article class="message is-light">
+    <div class="message-header">
+      <p>The discord server </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+      <p>We have 40 and growing. Main areas: data, AI, game theory, web dev, programming. </p>
+      <p>Members are across Europe and Asia (Finland, Germany, Singapore, Vietnam, etc).</p>
+      
+      <p style="color:crimson">We have regular discord meetup at weekend.</p>
+      <p> Past events: One was to review code. One was to pitch projects (of all phases). </p>
+      <p>If you don't have something concrete yet, join and comment on others.
+</p>
+      
+
+  <i>    I warmly welcome members from the following groups: Vietnam AI in Europe, Sinh vien IT tai Duc, slack We Build Vietnam. Special welcome to my friends.
+    </i>  
+
+    </div>
+    </article>
+
+
+      <article class="message is-light">
+    <div class="message-header">
+      <p> Society in Simulation project </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+<p>      Currently, I offer these tracks to learn game theory:</p>
+
+<p> Track 1 : History of game theory and foundational blocks. </p>
+<p> <i>A prep course</i>: Simulation of the evolution of a population playing the Prisoner's Dilemma. </p>
+      <p> Track 2: Evolution of bargaining behavior in the repeated Nash Demand Game </p>
+<p> Track 3: The effect of redacted information in multiple party conflict </p>
+<p> Track 4: Collaboration with students' project (Direction: Network..)</p>
+
+    </div>
+    </article>
+
+      <div class="container">
+	<h2 class="title notification is-warning"> CURRICULUMN</h2>
+      <div class="columns is-multiline">
+	<div class="column is-half">
+	  <h3 class="title is-4">Track 1</h3>
+	  <h4 class="title is-6"> History of game theory & foundational blocks </h4>
+	  <figure class="image">
+      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+    </figure>
+	  <b> History</b>
+	  
+<ul>
+<li> Waldegrave's le Her</li>
+<li> Zermelo's paper on chess </li>
+<li> Borel and von Neumann series of papers</li>
+<li> John Nash's game theory</li>
+</ul>
+	  
+<b> Building blocks</b>
+	  
+<ul>
+<li> Decision theory and preference construction</li>
+<li> Prisoner's Dilemma </li>
+<li> Mountain hikers (zero sum game)</li>
+<li> Coordination game</li>
+<li> Hawk-Dove game </li>
+</ul>
+	  
+
+	</div>
+	<div class="column is-half">
+	  <h3 class="title is-4">Prep course </h3>
+	  <h4 class="title is-6"> Survival of the fittest algorithm & technicality </h4>
+	  	  <figure class="image">
+      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+		  </figure>
+
+<b> Strategy representation </b>
+<ul>
+<li>Finite state machine</li>
+<li>Probabilistic machine </li>
+</ul>
+<b> Evolutionary algorithm </b>		  
+<ul>
+<li> Matching phase</li>
+<li>Learning phase</li>
+<li>Mutation phase</li>
+</ul>
+<b> Simulation configuration </b>
+<ul>
+<li> Payoff calculation </li>
+<li> </li>
+<li> </li>
+</ul>
+	</div>
+	<div class="column is-half">
+	  <h3 class="title is-4">Track 2 </h3>
+	  <h4 class="title is-6">Evolution of bargaining behavior in the repeated Nash Demand Game</h4>
+	  
+	  	  <figure class="image">
+      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+		  </figure>
+
+		  <ul>
+		    <li>lesson 1</li>
+		    </ul>
+
+	</div>
+	<div class="column is-half">
+	  <h3 class="title is-4">Track 3 </h3>
+	  <h4 class="title is-6">The effect of redacted information in multiple party conflict</h4>
+
+	  	  <figure class="image">
+      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+    </figure>
+
+		  		  <ul>
+		    <li>lesson 1</li>
+		    </ul>
+
+	</div>
+	
+      </div>
+      </div>
+
+      <div class="container">
+
+	<h2 class="title notification is-warning"> ROADMAP </h2>
+	<p> Note that the goals extend when I reach them. </p>
+	<div>
+	
+	  <p> 100 users </p>
+	  <progress class="progress is-primary" value="40" max="100"></progress>
+	  <p> 10 meetups </p>
+	  <progress class="progress is-warning" value="2" max="10"></progress>
+	  <p> 50 projects </p>
+	  <progress class="progress is-danger" value="3" max="50">50 projects</progress>
+	  <p> 10000 lines of content </p>
+	  <progress class="progress is-danger" value="10" max="100">10000 lines of content</progress>
+	  <p> 50000 lines of codes </p>
+	  <progress class="progress is-warning" value="10" max="50">50000 lines of codes</progress>
+	</div>
+
+<br>
+	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; support me writing &#9829;</a>
+      </div>
+      
+    <router-view/>
+    </div>
+</template>
+
+<script>
+
+export default {
+  name: 'App'
+}
+</script>
+
+<style>
+#app {
+  font-family: 'Arvo', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
