@@ -7,7 +7,6 @@
       <nav class="navbar">
 	<div class="container">
 	  <div class="navbar-brand">
-	    <a class="navbar-item"> <strong> [LOGO] AYA </strong></a>
 	    <span class="navbar-burger burger" data-target="navbarMenuHeroA">
 	      <span></span>
 	      <span></span>
@@ -20,11 +19,14 @@
 
     <div class="hero-body">
       <div class="container has-text-centered">
+	<a 
+	  <img src="./assets/g4109.png" style="min-height:100px" /></a>
+`
 	<h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
 	<h2 class="subtitle"> wanna code a population of finite state machines playing games ? with stochasmagically intelligent agents ? in LISP ? </h2>
 	<a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
 	  Join #houseAYA on Discord</a>
-	<p>we welcome beautiful minds</p>
+<p>we welcome beautiful minds</p>
       </div>
     </div>
 
@@ -32,70 +34,16 @@
 				 
 	  
 
-    <article class="message is-light">
-    <div class="message-header">
-      <p> First principle </p>
-      <button class="delete" aria-label="delete"></button>
-    </div>
-    <div class="message-body">
-
-I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that big project garden, I sow my own project: a game theory class.
-      
-
-    </div>
-    </article>
-
-
-    
-  <article class="message is-light">
-    <div class="message-header">
-      <p>The discord server </p>
-      <button class="delete" aria-label="delete"></button>
-    </div>
-    <div class="message-body">
-
-      <p>We have 40 and growing. Main areas: data, AI, game theory, web dev, programming. </p>
-      <p>Members are across Europe and Asia (Finland, Germany, Singapore, Vietnam, etc).</p>
-      
-      <p style="color:crimson">We have regular discord meetup at weekend.</p>
-      <p> Past events: One was to review code. One was to pitch projects (of all phases). </p>
-      <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
-</p>
-      
-
-  <i>    I warmly welcome members from the following groups: Racketeers, Vietnam AI in Europe, Sinh vien IT tai Duc, slack WeBuildVietnam, Pioneer pool. Special welcome to my friends. And all friends-to-be.
-    </i>  
-
-    </div>
-    </article>
-
-
-      <article class="message is-light">
-    <div class="message-header">
-      <p> Society in Simulation project </p>
-      <button class="delete" aria-label="delete"></button>
-    </div>
-    <div class="message-body">
-
-<p>      Currently, I offer these tracks to learn game theory:</p>
-
-<p> Track 1 : History of game theory and foundational blocks. </p>
-<p> <i>A prep course</i>: Simulation of the evolution of a population playing the Prisoner's Dilemma. </p>
-      <p> Track 2: Evolution of bargaining behavior in the repeated Nash Demand Game </p>
-<p> Track 3: The effect of redacted information in multiple party conflict </p>
-<p> Track 4: Collaboration with students' project (Direction: Network..)</p>
-
-    </div>
-    </article>
 
       <div class="container">
-	<h2 class="title notification is-warning"> CURRICULUMN</h2>
+	<h2 class="title notification is-dark"> THE COURSE</h2>
       <div class="columns is-multiline">
 	<div class="column is-half">
 	  <h3 class="title is-4">Track 1</h3>
 	  <h4 class="title is-6"> History of game theory & foundational blocks </h4>
-	  <figure class="image">
-      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+	  <figure class="image" style="width:100%;height:25%;overflow:hidden">
+
+	    <img src="https://images.pexels.com/photos/36006/renaissance-schallaburg-figures-facade.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
     </figure>
 	  <b> History</b>
 	  
@@ -121,8 +69,8 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
 	<div class="column is-half">
 	  <h3 class="title is-4">Prep course </h3>
 	  <h4 class="title is-6"> Survival of the fittest algorithm & technicality </h4>
-	  	  <figure class="image">
-      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+	  	  <figure class="image" style="width:100%;height:25%;overflow:hidden">
+      <img src="https://images.pexels.com/photos/4075/nature-walking-animal-strong.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
 		  </figure>
 
 <b> Strategy representation </b>
@@ -147,8 +95,9 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
 	  <h3 class="title is-4">Track 2 </h3>
 	  <h4 class="title is-6">Evolution of bargaining behavior in the repeated Nash Demand Game</h4>
 	  
-	  	  <figure class="image">
-      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+	  <figure class="image" style="width:100%;height:50%;overflow:hidden">
+	    
+      <img src="https://images.pexels.com/photos/776654/pexels-photo-776654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940">
 		  </figure>
 
 		  <ul>
@@ -160,8 +109,8 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
 	  <h3 class="title is-4">Track 3 </h3>
 	  <h4 class="title is-6">The effect of redacted information in multiple party conflict</h4>
 
-	  	  <figure class="image">
-      <img src="https://bulma.io/images/placeholders/720x240.png" alt="Placeholder image">
+	  	  <figure class="image" style="width:100%;height:50%;overflow:hidden">
+      <img src="https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940">
     </figure>
 
 		  		  <ul>
@@ -175,27 +124,366 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
 
       <div class="container">
 
-	<h2 class="title notification is-warning"> ROADMAP </h2>
-	<p> Note that the goals extend when I reach them. </p>
-	<div>
-	
-	  <p> 100 users </p>
-	  <progress class="progress is-primary" value="52" max="100"></progress>
-	  <p> 10 meetups </p>
-	  <progress class="progress is-warning" value="2" max="10"></progress>
-	  <p> 50 projects </p>
-	  <progress class="progress is-danger" value="3" max="50">50 projects</progress>
-	  <p> 10000 lines of content </p>
-	  <progress class="progress is-danger" value="10" max="100">10000 lines of content</progress>
-	  <p> 50000 lines of codes </p>
-	  <progress class="progress is-warning" value="10" max="50">50000 lines of codes</progress>
-	</div>
+	<div class="title notification is-warning"> THE LEAGUE	<br>
+	Phong Thần Bảng </div>
 
-<br>
-	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; support me writing &#9829;</a>
-      </div>
+	<div class="columns">
+	  <div class="column">
+	
+	<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+	      DarkLord
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+
+<b>App</b>	      Hôm nay ăn gì?<br>
+<b>Description</b> Ngày nào cũng vắt óc nghĩ xem ăn gì rất mệt..<br>
+<b>Strength</b> À, tớ dạo này làm fullstack (Nodejs + Vue), thảng gẩy tí Clojure cho có tí đệ quy trong não
+
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item">Vietnam </p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	    
+	  </footer>
+	</div>
+	<br>
+
+		<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+Mother of Dragons
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+
+<b>App</b> Cuckoo algorithm <br>
+<b>Description</b> Metaheuristics <br>
+<b>Strength</b> Java, R
+
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item"> France </p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	    
+	  </footer>
+		</div>
+		<br>
+				<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+Hoa bay
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+
+<b>App</b> Send By Share <br>
+<b>Description</b> Shipping <br>
+<b>Strength</b> BI
+
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item"> France </p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	    
+	  </footer>
+	  </div>
+
+
+	  </div>
+	  <div class="column">
+	    	<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+BKVodich
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+	      <b>App</b> Open source C++ ML library <br>
+	      <b>Description</b> We solve the problems of ..<br>
+	      <b>Strength</b> Recommend system, NLP <br>
+	   
+	      <br>
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	     <p class="card-footer-item">Undisclosed </p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	   
+
+	  </footer>
+	  </div>
+		<br>
+		<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+
+LH
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+	      <b>App</b> Python online <br>
+	      <b>Description</b> Python lessons should be about running the algorithms, NOT about installing dependencies and libraries. <br>
+	      <b>Strength</b> Python teacher
+	   
+	      <br>
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    	    <p class="card-footer-item"> Middle Earth </p>
+	    <a href="#" class="card-footer-item">Git</a>
+
+	    <a href="#" class="card-footer-item">Demo</a>
+	  </footer>
+		</div>
+
+		<br>
+						<div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+Aya of the Ocean
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+
+<b>App</b> Game theory class <br>
+<b>Description</b> Education <br>
+<b>Strength</b> Racket
+
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item"> Italy </p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	    
+	  </footer>
+	  </div>
+
+		
+	  </div>
+
+	  <div class="column">
+	    <div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+	      TheElderOne
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+	      <b>App</b> Check bank account balance <br>
+	      <b>Description</b> Mình thấy có mấy cái kiểu đó trên mạng rồi nhưng mà mình thấy không ok cho lắm lên tự làm. Backend thì tùy thôi, tạo REST backend với python, scala hoặc là java với Spring framework.<br>
+	      <b>Strength</b> Webdev
+	   
+	      <br>
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item">Germany</p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	  </footer>
+	  </div>
+	    <br>
+	    <div class="card">
+	  <header class="card-header">
+	    <p class="card-header-title">
+	      DragonBall
+	    </p>
+	    <a href="#" class="card-header-icon" aria-label="more options">
+	      <span class="icon">
+		<i class="fas fa-angle-down" aria-hidden="true"></i>
+	      </span>
+	    </a>
+	  </header>
+	  <div class="card-content">
+	    <div class="content">
+	      <b>App</b> Chess <br>
+	      <b>Description</b> Disclose after Pioneer tournament :-p <br>
+	      <b>Strength</b> Django
+	   
+	      <br>
+	    </div>
+	  </div>
+	  <footer class="card-footer">
+	    <p class="card-footer-item">Finland</p>
+	    <a href="#" class="card-footer-item">Git</a>
+	    <a href="#" class="card-footer-item">Demo</a>
+	  </footer>
+	  </div>
+	    
+	  </div>
+	  
+	 
+	  </div>
+
+	      <div class="container">
+	<h2 class="title notification is-dark"> ABOUT US </h2>
+
+    <article class="message is-light">
+    <div class="message-header">
+      <p> First principle </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that incubation house, I sow my own project: a game theory course.
       
-    <router-view/>
+
+    </div>
+    </article>
+
+    
+  <article class="message is-light">
+    <div class="message-header">
+      <p>The discord server </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+      <p>We have 80 and growing. Main areas: data, AI, game theory, web dev, programming. </p>
+      <p>Members are across Europe and Asia (Finland, Germany, Singapore, Malaysia, Vietnam, etc).</p>
+      
+      <p style="color:crimson">We have regular discord meetup at weekend.</p>
+      <p> Past events: One was to review code. One was to pitch projects (of all phases). </p>
+      <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
+</p>
+      
+
+  <i>    I warmly welcome: Racketeers, Vietnam AI in Europe, Sinh vien IT tai Duc, slack WeBuildVietnam, Pioneer pool. I actively seek non-Vietnamese members and female members
+    </i>  
+
+    </div>
+    </article>
+
+	      <div class="container">
+	<h2 class="title notification is-dark"> PRICING </h2>
+
+  <div class="pricing-table">
+  <div class="pricing-plan">
+    <div class="plan-header">White belt</div>
+    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>0</span>/month</div>
+    <div class="plan-items">
+      <div class="plan-item">Half course</div>
+      <div class="plan-item">Discord community</div>
+      <div class="plan-item">1 group meet / week</div>
+      <div class="plan-item">-</div>
+            <div class="plan-item">-</div>
+
+    </div>
+    <div class="plan-footer">
+      <button class="button is-fullwidth" disabled="disabled">Current plan</button>
+    </div>
+  </div>
+
+  <div class="pricing-plan is-warning">
+    <div class="plan-header">Yellow belt</div>
+    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>10</span>/month</div>
+    <div class="plan-items">
+      <div class="plan-item">Full course</div>
+      <div class="plan-item">Discord community</div>
+      <div class="plan-item">1 group meet / week</div>
+      <div class="plan-item">Join The League</div>
+            <div class="plan-item">-</div>
+
+    </div>
+    <div class="plan-footer">
+      <button class="button is-fullwidth">Choose</button>
+    </div>
+  </div>
+
+  <div class="pricing-plan is-active">
+    <div class="plan-header">Green belt</div>
+    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>60</span>/month</div>
+    <div class="plan-items">
+      <div class="plan-item">Full course</div>
+      <div class="plan-item">Discord community</div>
+      <div class="plan-item"> 1 group meet / week</div>
+      <div class="plan-item"> Join The League</div>
+      <div class="plan-item"> 1 private session / month</div>
+    </div>
+    <div class="plan-footer">
+      <button class="button is-fullwidth">Choose</button>
+    </div>
+  </div>
+
+  <div class="pricing-plan is-danger">
+    <div class="plan-header">Red belt</div>
+    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>100</span>/month</div>
+    <div class="plan-items">
+      <div class="plan-item">Full course</div>
+      <div class="plan-item">Discord community</div>
+      <div class="plan-item">1 group meet / week</div>
+            <div class="plan-item">Join The League</div>
+
+
+      <div class="plan-item">1 private session / week</div>
+      <div class="plan-item"></div>
+    </div>
+    <div class="plan-footer">
+      <button class="button is-fullwidth">Choose</button>
+    </div>
+  </div>
+</div>
+
+	
+	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; otherwise, buy me a coffee &#9829;</a>
+      </div>
+</div>      
+      <router-view/>
+      <a href="http://www.freepik.com"><i>(Logo designed by Freepik)</i></a>
+</div>
     </div>
 </template>
 
