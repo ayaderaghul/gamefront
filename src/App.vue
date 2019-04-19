@@ -387,7 +387,7 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
     
   <article class="message is-light">
     <div class="message-header">
-      <p>The discord server </p>
+      <p>The Discord server </p>
       <button class="delete" aria-label="delete"></button>
     </div>
     <div class="message-body">
@@ -405,7 +405,23 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
     </i>  
 
     </div>
-    </article>
+  </article>
+
+  <article class="message is-light">
+    <div class="message-header">
+<p> Why join The League? </p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+Do cool projects, get cheered from community, get coached from community, get HIRED !!! <br> <span style="color:crimson">It is time to raise your income level, do that by training with the best.</span>
+
+
+
+    </div>
+  </article>
+
+  
 
 	      <div class="container">
 	<h2 class="title notification is-dark"> PRICING </h2>
