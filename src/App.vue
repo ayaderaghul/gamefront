@@ -208,7 +208,7 @@ Hoa bay
 	    </div>
 	  </div>
 	  <footer class="card-footer">
-	    <p class="card-footer-item"> France </p>
+	    <p class="card-footer-item"> Netherlands </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
 	    
