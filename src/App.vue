@@ -388,7 +388,11 @@ Aya of the Ocean
     </div>
     <div class="message-body">
 
-I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that incubation house, I sow my own project: a game theory course.
+      I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that incubation house, I sow my own project: a game theory course. <br><br>
+
+      Why hire The League? Trust me, it is time for heavy R&D to meet the industry. <br>
+
+      Why join The League? Do cool projects, get cheered from community, get coached from community, get HIRED !!! It is time to raise your income level.
       
 
     </div>
@@ -403,11 +407,8 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
     <div class="message-body">
 
       <p>We have 80 and growing. Main areas: data, AI, game theory, web dev, programming. </p>
-      <p>Members are across Europe and Asia (Finland, Germany, Singapore, Malaysia, Vietnam, etc).</p>
-      
-      <p style="color:crimson">We have regular discord meetup at weekend.</p>
-      <p style="color:crimson"> Coming: Sunday 9:00 AM CET+1 (Rome time). Topic: Update The League's projects / Cập nhật Phong Thần Bảng </p>
-      <p> Past events: One was to review code. One was to pitch projects (of all phases). </p>
+      <p style="color:crimson"> Event: Sunday 9:00 AM CET+1 (Rome time). <br>Topic: Update The League's projects / Cập nhật Phong Thần Bảng </p>
+      <p> Past weekly events: One was to review code. One was to pitch projects (of all phases). </p>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
       
@@ -418,19 +419,6 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
     </div>
   </article>
 
-  <article class="message is-light">
-    <div class="message-header">
-<p> Why join The League? </p>
-      <button class="delete" aria-label="delete"></button>
-    </div>
-    <div class="message-body">
-
-Do cool projects, get cheered from community, get coached from community, get HIRED !!! <br> <span style="color:crimson">It is time to raise your income level, do that by training with the best.</span>
-
-
-
-    </div>
-  </article>
 
     <article class="message is-light">
     <div class="message-header">
