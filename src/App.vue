@@ -432,6 +432,32 @@ Do cool projects, get cheered from community, get coached from community, get HI
     </div>
   </article>
 
+    <article class="message is-light">
+    <div class="message-header">
+<p> How to get more stars?</p>
+      <button class="delete" aria-label="delete"></button>
+    </div>
+    <div class="message-body">
+
+      Showcase your project during the weekly Discord meetup<br>
+      Receive feedback<br>
+      Give feedback to others <br>
+      Integrate and update your project<br>
+      <br>
+
+      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo <br>
+      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo and a demo herokuapp <br>
+      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo, a demo herokuapp, and 5 users <br>
+      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo with the README that can help me set up and test your code, a functional herokuapp, 10 users and you start to get money/resource <br>
+      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> The above + you do something real cool
+      
+      
+
+
+
+    </div>
+  </article>
+
   
 
 	      <div class="container">
