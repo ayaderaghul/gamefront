@@ -154,7 +154,7 @@
 	    <p class="card-footer-item">Vietnam </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
-	    
+	    <a href="#" class="card-footer-item">Hire?</a>
 	  </footer>
 	</div>
 	<br>
@@ -183,6 +183,7 @@ Mother of Dragons
 	    <p class="card-footer-item"> France </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    <a href="#" class="card-footer-item">Hire?</a>
 	    
 	  </footer>
 		</div>
@@ -211,6 +212,7 @@ Hoa bay
 	    <p class="card-footer-item"> Netherlands </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    <a href="#" class="card-footer-item">Hire?</a>
 	    
 	  </footer>
 	  </div>
@@ -242,6 +244,7 @@ BKVodich
 	     <p class="card-footer-item">Undisclosed </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    <a href="#" class="card-footer-item">Hire?</a>
 	   
 
 	  </footer>
@@ -273,6 +276,8 @@ LH
 	    <a href="#" class="card-footer-item">Git</a>
 
 	    <a href="#" class="card-footer-item">Demo</a>
+	    	    <a href="#" class="card-footer-item">Hire?</a>
+
 	  </footer>
 		</div>
 
@@ -301,6 +306,7 @@ Aya of the Ocean
 	    <p class="card-footer-item"> Italy </p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    <a href="#" class="card-footer-item">Hire?</a>
 	    
 	  </footer>
 	  </div>
@@ -333,6 +339,8 @@ Aya of the Ocean
 	    <p class="card-footer-item">Germany</p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    	    <a href="#" class="card-footer-item">Hire?</a>
+
 	  </footer>
 	  </div>
 	    <br>
@@ -360,6 +368,8 @@ Aya of the Ocean
 	    <p class="card-footer-item">Finland</p>
 	    <a href="#" class="card-footer-item">Git</a>
 	    <a href="#" class="card-footer-item">Demo</a>
+	    	    <a href="#" class="card-footer-item">Hire?</a>
+
 	  </footer>
 	  </div>
 	    
