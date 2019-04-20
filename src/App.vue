@@ -406,7 +406,7 @@ I intend to create a flat hierarchy classroom that sparks and facillitates every
       <p>Members are across Europe and Asia (Finland, Germany, Singapore, Malaysia, Vietnam, etc).</p>
       
       <p style="color:crimson">We have regular discord meetup at weekend.</p>
-      <p style="color:crimson"> Coming: Sunday 9:00 AM CET+1 (Rome time). Topic: Update The League's projects </p>
+      <p style="color:crimson"> Coming: Sunday 9:00 AM CET+1 (Rome time). Topic: Update The League's projects / Cập nhật Phong Thần Bảng </p>
       <p> Past events: One was to review code. One was to pitch projects (of all phases). </p>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
