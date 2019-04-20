@@ -392,7 +392,7 @@ Aya of the Ocean
 
       Why hire The League? Trust me, it is time for heavy R&D to meet the industry. <br>
 
-      Why join The League? Do cool projects, get cheered from community, get coached from community, get HIRED !!! It is time to raise your income level.
+      Why join The League? Do cool projects, get cheered from community, get coached from community, get HIRED !!! It is time to raise your income level, do that by training with the best.
       
 
     </div>
