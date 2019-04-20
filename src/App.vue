@@ -531,7 +531,7 @@ Do cool projects, get cheered from community, get coached from community, get HI
 </div>
 
 	
-	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; buy me a coffee sometimes &#9829;</a>
+	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; buy me a coffee &#9829;</a>
       </div>
 </div>      
       <router-view/>
