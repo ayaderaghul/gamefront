@@ -1,7 +1,7 @@
 <template>
-  
-<div id="app">
 
+<div id="app">
+  
   <section class="hero is-warning is-fullheight">
     <div class="hero-head">
       <nav class="navbar">
@@ -16,67 +16,67 @@
 	</div>
       </nav>
     </div>
-
+    
     <div class="hero-body">
       <div class="container has-text-centered">
 	<a 
 	  <img src="./assets/g4109.png" style="min-height:100px" /></a>
 `
-	<h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
-	<h2 class="subtitle"> wanna code a population of finite state machines playing games ? with stochasmagically intelligent agents ? in LISP ? </h2>
-	<a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
-	  Join #houseAYA on Discord</a>
+<h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
+<h2 class="subtitle"> wanna code a population of finite state machines playing games ? with stochasmagically intelligent agents ? in LISP ? </h2>
+<a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
+  Join #houseAYA on Discord</a>
 <p>we welcome beautiful minds</p>
-      </div>
+</div>
+</div>
+
+</section>
+
+
+
+
+<div class="container">
+  <h2 class="title notification is-dark"> THE COURSE</h2>
+  <div class="columns is-multiline">
+    <div class="column is-half">
+      <h3 class="title is-4">Track 1</h3>
+      <h4 class="title is-6"> History of game theory & foundational blocks </h4>
+      <figure class="image" style="width:100%;height:25%;overflow:hidden">
+	
+	<img src="https://images.pexels.com/photos/36006/renaissance-schallaburg-figures-facade.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
+      </figure>
+      <b> History</b>
+      
+      <ul>
+	<li><a href="https://gametheoryclass.herokuapp.com/"> Waldegrave's le Her</a> <i>(second draft)</i></li>
+	<li> Zermelo's paper on chess </li>
+	<li> Borel and von Neumann series of papers</li>
+	<li> John Nash's game theory</li>
+      </ul>
+      
+      <b> Building blocks</b>
+      
+      <ul>
+	<li> Decision theory and preference construction</li>
+	<li> Prisoner's Dilemma </li>
+	<li> Mountain hikers (zero sum game)</li>
+	<li> Coordination game</li>
+	<li> Hawk-Dove game </li>
+      </ul>
+      
+      
     </div>
-
-    </section>
-				 
-	  
-
-
-      <div class="container">
-	<h2 class="title notification is-dark"> THE COURSE</h2>
-      <div class="columns is-multiline">
-	<div class="column is-half">
-	  <h3 class="title is-4">Track 1</h3>
-	  <h4 class="title is-6"> History of game theory & foundational blocks </h4>
-	  <figure class="image" style="width:100%;height:25%;overflow:hidden">
-
-	    <img src="https://images.pexels.com/photos/36006/renaissance-schallaburg-figures-facade.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
-    </figure>
-	  <b> History</b>
-	  
-<ul>
-<li><a href="https://gametheoryclass.herokuapp.com/"> Waldegrave's le Her</a> <i>(first draft)</i></li>
-<li> Zermelo's paper on chess </li>
-<li> Borel and von Neumann series of papers</li>
-<li> John Nash's game theory</li>
-</ul>
-	  
-<b> Building blocks</b>
-	  
-<ul>
-<li> Decision theory and preference construction</li>
-<li> Prisoner's Dilemma </li>
-<li> Mountain hikers (zero sum game)</li>
-<li> Coordination game</li>
-<li> Hawk-Dove game </li>
-</ul>
-	  
-
-	</div>
-	<div class="column is-half">
-	  <h3 class="title is-4">Prep course </h3>
-	  <h4 class="title is-6"> Survival of the fittest algorithm & technicality </h4>
-	  	  <figure class="image" style="width:100%;height:25%;overflow:hidden">
-      <img src="https://images.pexels.com/photos/4075/nature-walking-animal-strong.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
-		  </figure>
-
-<b> Strategy representation </b>
-<ul>
-<li>Finite state machine</li>
-<li>Probabilistic machine </li>
+    <div class="column is-half">
+      <h3 class="title is-4">Prep course </h3>
+      <h4 class="title is-6"> Survival of the fittest algorithm & technicality </h4>
+      <figure class="image" style="width:100%;height:25%;overflow:hidden">
+	<img src="https://images.pexels.com/photos/4075/nature-walking-animal-strong.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
+      </figure>
+      
+      <b> Strategy representation </b>
+      <ul>
+	<li>Finite state machine</li>
+	<li>Probabilistic machine </li>
 </ul>
 <b> Evolutionary algorithm </b>		  
 <ul>
@@ -86,7 +86,8 @@
 </ul>
 <b> Simulation configuration </b>
 <ul>
-<li> Payoff calculation </li>
+  <li> Payoff calculation </li>
+  <li> Initial configurations </li>
 <li> </li>
 <li> </li>
 </ul>
@@ -101,7 +102,11 @@
 		  </figure>
 
 		  <ul>
-		    <li>lesson 1</li>
+		    <li>The game</li>
+		    <li>The one shot and the repeated setting </li>
+		    <li> Payoff calculation and interpretation</li>
+		    <li> Short sighted and long vision agents </li>
+		    <li> Run and interpretation suggestion </li>
 		    </ul>
 
 	</div>
@@ -114,7 +119,9 @@
     </figure>
 
 		  		  <ul>
-		    <li>lesson 1</li>
+				    <li>The game tree</li>
+				    <li> Complete and incomplete information game</li>
+				    <li> The simulation and interpretation suggestion</li>
 		    </ul>
 
 	</div>
@@ -127,256 +134,47 @@
 	<div class="title notification is-warning"> THE LEAGUE	<br>
 	Phong Thần Bảng </div>
 
-	<div class="columns">
-	  <div class="column">
-	
-	<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-	      DarkLord
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
+	<div class="columns is-multiline" v-if="cards">
+	  <div class="column is-one-third" v-for="card in cards">
 
-<b>App</b>	      Hôm nay ăn gì?<br>
-<b>Description</b> Ngày nào cũng vắt óc nghĩ xem ăn gì rất mệt..<br>
-<b>Strength</b> À, tớ dạo này làm fullstack (Nodejs + Vue), thảng gẩy tí Clojure cho có tí đệ quy trong não
+	  <div class="card">
+	    <header class="card-header">
+	      <p class="card-header-title">
+		{{ card.name }}
+		&nbsp;
+<span v-for="index in card.star">
+		  <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i>
+		  </span>
+	      </p>
+	      <a href="#" class="card-header-icon" aria-label="more options">
+		<span class="icon">
+		  <i class="fas fa-angle-down" aria-hidden="true"></i>
+		</span>
+	      </a>
+	    </header>
+	    <div class="card-content">
+	      <div class="content">
 
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item">Vietnam </p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    <a href="#" class="card-footer-item">Hire?</a>
-	  </footer>
-	</div>
-	<br>
-
-		<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-Mother of Dragons
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-
-<b>App</b> Cuckoo algorithm <br>
-<b>Description</b> Metaheuristics <br>
-<b>Strength</b> Java, R
+		<b>App</b>	{{card.app}} <br>
+<b>Description</b> {{card.desc}}<br>
+<b>Strength</b> {{card.strength}} <br>
 
 	    </div>
 	  </div>
 	  <footer class="card-footer">
-	    <p class="card-footer-item"> France </p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    <a href="#" class="card-footer-item">Hire?</a>
-	    
-	  </footer>
-		</div>
-		<br>
-				<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-Hoa bay
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-
-<b>App</b> Send By Share <br>
-<b>Description</b> Shipping <br>
-<b>Strength</b> BI
-
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item"> Netherlands </p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    <a href="#" class="card-footer-item">Hire?</a>
-	    
+	    <p class="card-footer-item"> {{ card.location }} </p>
+	    <a :href="card.git" target="_blank" class="card-footer-item">Git</a>
+	    <a :href="card.demo" target="_blank" class="card-footer-item">Demo</a>
+	    <a :href="card.hire" class="card-footer-item">Hire?</a>
 	  </footer>
 	  </div>
-
-
-	  </div>
-	  <div class="column">
-	    	<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-BKVodich
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-	      <b>App</b> Open source C++ ML library <br>
-	      <b>Description</b> We solve the problems of ..<br>
-	      <b>Strength</b> Recommend system, NLP <br>
-	   
-	      <br>
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	     <p class="card-footer-item">Undisclosed </p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    <a href="#" class="card-footer-item">Hire?</a>
-	   
-
-	  </footer>
-	  </div>
-		<br>
-		<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-
-LH
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-	      <b>App</b> Python online <br>
-	      <b>Description</b> Python lessons should be about running the algorithms, NOT about installing dependencies and libraries. <br>
-	      <b>Strength</b> Python teacher
-	   
-	      <br>
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    	    <p class="card-footer-item"> Middle Earth </p>
-	    <a href="#" class="card-footer-item">Git</a>
-
-	    <a href="#" class="card-footer-item">Demo</a>
-	    	    <a href="#" class="card-footer-item">Hire?</a>
-
-	  </footer>
-		</div>
-
-		<br>
-						<div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-Aya of the Ocean
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-
-<b>App</b> Game theory class <br>
-<b>Description</b> Education <br>
-<b>Strength</b> Racket
-
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item"> Italy </p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    <a href="#" class="card-footer-item">Hire?</a>
-	    
-	  </footer>
-	  </div>
-
-		
-	  </div>
-
-	  <div class="column">
-	    <div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-	      TheElderOne
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-	      <b>App</b> Check bank account balance <br>
-	      <b>Description</b> Mình thấy có mấy cái kiểu đó trên mạng rồi nhưng mà mình thấy không ok cho lắm lên tự làm. Backend thì tùy thôi, tạo REST backend với python, scala hoặc là java với Spring framework.<br>
-	      <b>Strength</b> Webdev
-	   
-	      <br>
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item">Germany</p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    	    <a href="#" class="card-footer-item">Hire?</a>
-
-	  </footer>
-	  </div>
-	    <br>
-	    <div class="card">
-	  <header class="card-header">
-	    <p class="card-header-title">
-	      DragonBall
-	    </p>
-	    <a href="#" class="card-header-icon" aria-label="more options">
-	      <span class="icon">
-		<i class="fas fa-angle-down" aria-hidden="true"></i>
-	      </span>
-	    </a>
-	  </header>
-	  <div class="card-content">
-	    <div class="content">
-	      <b>App</b> Chess <br>
-	      <b>Description</b> Disclose after Pioneer tournament :-p <br>
-	      <b>Strength</b> Django
-	   
-	      <br>
-	    </div>
-	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item">Finland</p>
-	    <a href="#" class="card-footer-item">Git</a>
-	    <a href="#" class="card-footer-item">Demo</a>
-	    	    <a href="#" class="card-footer-item">Hire?</a>
-
-	  </footer>
-	  </div>
-	    
-	  </div>
+</div>
 	  
-	 
-	  </div>
+
+
+	
+	</div>
+	
 
 	      <div class="container">
 	<h2 class="title notification is-dark"> ABOUT US </h2>
@@ -390,6 +188,7 @@ Aya of the Ocean
 
       I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that incubation house, I sow my own project: a game theory course. <br><br>
 
+      What is The League? The League comprises of members who do projects. <br>
       Why hire The League? Trust me, it is time for heavy R&D to meet the industry. <br>
 
       Why join The League? Do cool projects, get cheered from community, get coached from community, get HIRED !!! It is time to raise your income level, do that by training with the best.
@@ -406,9 +205,9 @@ Aya of the Ocean
     </div>
     <div class="message-body">
 
-      <p>We have 80 and growing. Main areas: data, AI, game theory, web dev, programming. </p>
-      <p style="color:crimson"> Event: Sunday 9:00 AM CET+1 (Rome time). <br>Topic: Update The League's projects / Cập nhật Phong Thần Bảng </p>
-      <p> Past weekly events: One was to review code. One was to pitch projects (of all phases). </p>
+      <p>We have 100 and growing. Areas: Security, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
+      <p style="color:crimson"> Coming Event: Sunday 28/4 9:00 AM CET+1 (Rome time). <br>Topic: Let's get users and think about profit. </p>
+      <p> Past weekly events: 1. Code review. 2. Project pitch. 3. Update The League / Cập nhật Phong Thần Bảng </p>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
       
@@ -531,7 +330,172 @@ Aya of the Ocean
 <script>
 
 export default {
-  name: 'App'
+  name: 'App',
+data () {
+return {
+cards: [
+{
+name: 'TheElderOne',
+star: 1,
+app: 'All banks in one place',
+desc: "I don't want to have 10 bank apps. I want to make one app that push info to your phone. In compliance with Germany's standard, all banks provide API.",
+strength: 'Spring framework, Java, Python',
+location: 'Germany',
+git: '#',
+demo: '#',
+hire: '#'
+
+},
+
+{
+name: 'BKVoDich',
+star: 1,
+app: 'Open source C++ ML library',
+desc: 'I think that C++ has better performance than Python. And currently there are two C++ ML libs, one is very specific and hard to build, the other is too old.',
+strength: 'Recommend system, NLP, parallel processing',
+location: 'Undisclosed',
+git: '#',
+demo: '#',
+hire: '#'
+},
+{
+name: 'B8',
+star: 4,
+app: 'Bank, creditscore and blockchain',
+desc: 'Talk to him, and he opens up :)',
+strength: 'Fintech',
+location: 'Canada',
+git: 'https://github.com/haardikk21',
+demo: '#',
+hire: '#'
+
+}
+,
+{
+name: 'LH',
+star: 1,
+app: 'Python online',
+desc: 'Python lessons should be about running the algorithms, NOT about installing dependencies and libraries.',
+strength: 'Python teacher',
+location: 'Middle Earth',
+git:'#',
+demo: '#',
+hire: '#'
+}
+,
+{
+name: 'Kotlin Ninja',
+star: 1,
+app: 'Help blind, deaf and disabled peole',
+desc: 'Voice recognition to help the blind and image recognition for the deaf to use body language',
+strength: 'Kotlin',
+location: 'Malaysia',
+git: '#',
+demo: '#',
+hire: '#'
+
+}
+,
+{ 
+name: 'DarkLord',
+star: 2,
+app: 'Hôm nay ăn gì?',
+desc: 'Ngày nào cũng vắt óc nghĩ xem ăn gì rất mệt..',
+strength: 'À, tớ dạo này làm fullstack (Nodejs + Vue), thảng gẩy tí Clojure cho có tí đệ quy trong não',
+location: 'Việt Nam',
+git: '#',
+demo: '#', 
+hire: '#'
+},
+{
+name: 'LH',
+star: 1,
+app: 'Probabilistic programming in Scala and Spark',
+desc: 'I want to do something with 4.5 million articles.',
+strength: 'Scala',
+location: 'Middle Earth',
+git: '#',
+demo: '#',
+hire: '#'
+}
+,
+{
+name: 'DragonBall',
+star: 2,
+desc: 'Disclose after Pioneer tournament :-p',
+strength: 'Django',
+location: 'Finland',
+git: 'https://github.com/Ihsara/cotuong.py',
+demo: '',
+hire: ''
+
+}
+,
+{
+name: 'Mother of Dragons',
+star: 1,
+app: 'Cuckoo algorithm',
+description: 'Metaheuristics',
+strength: 'Java, R',
+location: 'France',
+git: '#',
+demo: '#',
+hire: '#'
+},
+{
+name: 'InHand',
+star: 2,
+app: 'Automatic download of papers from website',
+desc: 'Eh.. prof asked',
+strength: 'Selenium',
+location: 'Italy',
+git: '#',
+demo: '#',
+hire: '#'
+}
+
+,
+
+{
+name: 'Hoa bay',
+star: 1,
+app: 'Send by Share',
+desc: 'Shipping',
+strength: 'BI',
+location: 'Netherlands',
+git: '',
+demo: '',
+hire: ''
+},
+{
+
+    name: 'DragonBall',
+    star: 2,
+    app: 'Download article',
+    desc: 'Download vnexpress articles',
+    strength: 'Python',
+    location: 'Finland',
+    git: 'https://github.com/Ihsara/rescue_tl_vnexpress',
+    demo: '',
+    hire: ''
+}
+,
+{
+name: 'Aya of the Ocean',
+star: 4,
+app: 'Game theory course',
+desc: 'I want to build the future of education.',
+strength: 'Racket, Python, Ruby, Go, Rails, Vue',
+location: 'Italy',
+git: 'https://github.com/ayaderaghul',
+demo: 'https://gametheoryclass.herokuapp.com/',
+hire: ''
+}
+]
+}
+},
+
+
 }
 </script>
 
