@@ -48,7 +48,7 @@
       <b> History</b>
       
       <ul>
-	<li><a href="https://gametheoryclass.herokuapp.com/"> Waldegrave's le Her</a> <i>(second draft)</i></li>
+	<li><a href="https://gametheoryclass.herokuapp.com/" target="_blank"> Waldegrave's le Her</a> <i>(second draft)</i></li>
 	<li> Zermelo's paper on chess </li>
 	<li> Borel and von Neumann series of papers</li>
 	<li> John Nash's game theory</li>
@@ -57,9 +57,9 @@
       <b> Building blocks</b>
       
       <ul>
-	<li> Decision theory and preference construction</li>
+	<li><a href="https://gametheoryclass.herokuapp.com/preference" target="_blank"> Decision theory and preference construction</a><i>(first draft)</i></li>
 	<li> Prisoner's Dilemma </li>
-	<li> Mountain hikers (zero sum game)</li>
+	<li><a href="https://gametheoryclass.herokuapp.com/"> Mountain hikers (zero sum game) </a><i> (first draft)</i></li>
 	<li> Coordination game</li>
 	<li> Hawk-Dove game </li>
       </ul>
