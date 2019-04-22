@@ -206,7 +206,7 @@
     <div class="message-body">
 
       <p>We have 100 and growing. Areas: Security, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
-      <p style="color:crimson"> Coming Event: Sunday 28/4 9:00 AM CET+1 (Rome time). <br>Topic: Let's get users and think about profit. </p>
+      <p style="color:crimson"> Coming Event: Sunday 28/4 3PM (Rome time). <br>Topic: Let's get users and think about raising and allocating capital. </p>
       <p> Past weekly events: 1. Code review. 2. Project pitch. 3. Update The League / Cập nhật Phong Thần Bảng </p>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
@@ -349,7 +349,7 @@ hire: '#'
 
 {
 name: 'BKVoDich',
-star: 1,
+star: 2,
 app: 'Open source C++ ML library',
 desc: 'I think that C++ has better performance than Python. And currently there are two C++ ML libs, one is very specific and hard to build, the other is too old.',
 strength: 'Recommend system, NLP, parallel processing',
@@ -422,6 +422,7 @@ hire: '#'
 {
 name: 'DragonBall',
 star: 2,
+app: 'Asian chess',
 desc: 'Disclose after Pioneer tournament :-p',
 strength: 'Django',
 location: 'Finland',
@@ -435,7 +436,7 @@ hire: ''
 name: 'Mother of Dragons',
 star: 1,
 app: 'Cuckoo algorithm',
-description: 'Metaheuristics',
+desc: 'Metaheuristics',
 strength: 'Java, R',
 location: 'France',
 git: '#',
