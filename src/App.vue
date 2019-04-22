@@ -207,6 +207,9 @@
 
       <p>We have 100 and growing. Areas: Security, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
       <p style="color:crimson"> Coming Event: Sunday 28/4 3PM (Rome time). <br>Topic: Let's get users and think about raising and allocating capital. </p>
+      <a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
+  Join #houseAYA on Discord</a>
+
       <p> Past weekly events: 1. Code review. 2. Project pitch. 3. Update The League / Cập nhật Phong Thần Bảng </p>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
