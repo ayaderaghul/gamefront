@@ -359,17 +359,28 @@ demo: '#',
 name: 'nextR2D2',
 star: 4,
 app: 'RL to train prosthetic model ',
-desc: "so that it can walk",
+desc: "So that it can walk.",
 strength: 'RL, CS',
 location: 'France',
 git: '#',
 demo: '#',
 },
+{
+name: 'Aya of the Ocean',
+star: 4,
+app: 'Game theory course',
+desc: 'I want to build the future of education.',
+strength: 'Racket',
+location: 'Italy',
+git: 'https://github.com/ayaderaghul',
+demo: 'https://gametheoryclass.herokuapp.com/',
+hire: ''
+},
 
 
 {
 name: 'TheElderOne',
-star: 1,
+star: 2,
 app: 'All banks in one place',
 desc: "I don't want to have 10 bank apps. I want to make one app that push info to your phone. In compliance with Germany's standard, all banks provide API.",
 strength: 'Spring framework, Java, Python',
@@ -403,7 +414,19 @@ demo: '#',
 hire: '#'
 
 }
-,
+    ,
+    {
+name: 'StargateKeepers',
+star: 4,
+app: 'Teach excel online',
+desc: '100K paid users, 75K youtube subscribers (see link)',
+strength: 'Hacking',
+location: 'Germany-Vietnam',
+git: 'https://hocexcel.online/',
+demo: 'https://www.youtube.com/user/ductnguy/featured',
+hire: ''
+},
+
 {
 name: 'LH',
 star: 1,
@@ -454,17 +477,6 @@ hire: ''
 }
 ,
 {
-name: 'Mother of Dragons',
-star: 1,
-app: 'Cuckoo algorithm',
-desc: 'Metaheuristics',
-strength: 'Java, R',
-location: 'France',
-git: '#',
-demo: '#',
-hire: '#'
-},
-{
 name: 'InHand',
 star: 2,
 app: 'Automatic download of papers from website',
@@ -478,17 +490,6 @@ hire: '#'
 
 ,
 
-{
-name: 'Aya of the Ocean',
-star: 4,
-app: 'Game theory course',
-desc: 'I want to build the future of education.',
-strength: 'Racket, Python, Ruby, Go, Rails, Vue',
-location: 'Italy',
-git: 'https://github.com/ayaderaghul',
-demo: 'https://gametheoryclass.herokuapp.com/',
-hire: ''
-}
 ]
 }
 },
