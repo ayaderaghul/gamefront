@@ -19,11 +19,13 @@
     
     <div class="hero-body">
       <div class="container has-text-centered">
-	<a 
-	  <img src="./assets/g4109.png" style="min-height:100px" /></a>
-`
+	<!-- <a 
+	  <img src="./assets/g4109.png" style="min-height:100px" /></a> -->
+
+<i class="fab fa-wolf-pack-battalion" style="font-size: 15em"></i>
+
 <h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
-<h2 class="subtitle"> wanna code a population of finite state machines playing games ? with stochasmagically intelligent agents ? in LISP ? </h2>
+<h2 class="subtitle"> wanna code a population of finite state machines playing games ? <br> with stochasmagically intelligent agents ? in LISP ? </h2>
 <a target="_blank" class="button is-danger" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA on Discord</a>
 <p>we welcome beautiful minds</p>
@@ -165,7 +167,6 @@
 	    <p class="card-footer-item"> {{ card.location }} </p>
 	    <a :href="card.git" target="_blank" class="card-footer-item">Git</a>
 	    <a :href="card.demo" target="_blank" class="card-footer-item">Demo</a>
-	    <a :href="card.hire" class="card-footer-item">Hire?</a>
 	  </footer>
 	  </div>
 </div>
@@ -176,6 +177,8 @@
 	</div>
 	
 
+	
+	
 	      <div class="container">
 	<h2 class="title notification is-dark"> ABOUT US </h2>
 
@@ -186,7 +189,9 @@
     </div>
     <div class="message-body">
 
-      I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns and nurtures projects. In that incubation house, I sow my own project: a game theory course. <br><br>
+      
+      
+      I intend to create a flat hierarchy classroom that sparks and facillitates. <br><br>
 
       What is The League? The League comprises of members who do projects. <br>
       Why hire The League? Trust me, it is time for heavy R&D to meet the industry. <br>
@@ -198,6 +203,7 @@
     </article>
 
     
+    
   <article class="message is-light">
     <div class="message-header">
       <p>The Discord server </p>
@@ -205,8 +211,11 @@
     </div>
     <div class="message-body">
 
-      <p>We have 100 and growing. Areas: Security, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
-      <p style="color:crimson"> Coming Event: Sunday 28/4 3PM (Rome time). <br>Topic: Let's get users and think about raising and allocating capital. </p>
+      <p>We have 100 and growing. Areas: Aerospace, RL, Robotics, Security, 5G, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
+      <p style="color:crimson">  Guys, the "Guys, let's freaking do a HACKATHON this week" Hackathon starts <a href="https://personal-blog-site--ayaderaghul.repl.co/">here</a>
+<br>
+Remember, 10 points for each quark :) And don't break the laws of physics. Happy Hacking !  </p> <br>
+      <p style="color:crimson"> Meetup: Sunday 28/4 3PM (Rome time). <br>Topic: Let's get users and think about raising and allocating capital. </p>
       <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA on Discord</a>
 
@@ -241,10 +250,6 @@
       <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo with the README that can help me set up and test your code, a functional herokuapp, 10 users and you start to get money/resource <br>
       <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> The above + you do something real cool
       
-      
-
-
-
     </div>
   </article>
 
@@ -325,7 +330,7 @@
       </div>
 </div>      
       <router-view/>
-      <a href="http://www.freepik.com"><i>(Logo designed by Freepik)</i></a><br>
+<!--      <a href="http://www.freepik.com"><i>(Logo designed by Freepik)</i></a><br> -->
       <i> I (and we) keep good practices to comply with privacy laws, and laws in general. </i>
       </div>
 
@@ -339,6 +344,29 @@ export default {
 data () {
 return {
 cards: [
+{
+name: 'skywalker',
+star: 4,
+app: 'RL for drone',
+desc: "Because it is challenging.",
+strength: 'Aerospace engineering',
+location: 'France',
+git: '#',
+demo: '#',
+},
+
+{
+name: 'nextR2D2',
+star: 4,
+app: 'RL to train prosthetic model ',
+desc: "so that it can walk",
+strength: 'RL, CS',
+location: 'France',
+git: '#',
+demo: '#',
+},
+
+
 {
 name: 'TheElderOne',
 star: 1,
@@ -413,18 +441,6 @@ demo: '#',
 hire: '#'
 },
 {
-name: 'LH',
-star: 1,
-app: 'Probabilistic programming in Scala and Spark',
-desc: 'I want to do something with 4.5 million articles.',
-strength: 'Scala',
-location: 'Middle Earth',
-git: '#',
-demo: '#',
-hire: '#'
-}
-,
-{
 name: 'DragonBall',
 star: 2,
 app: 'Asian chess',
@@ -463,30 +479,6 @@ hire: '#'
 ,
 
 {
-name: 'Hoa bay',
-star: 1,
-app: 'Send by Share',
-desc: 'Shipping',
-strength: 'BI',
-location: 'Netherlands',
-git: '',
-demo: '',
-hire: ''
-},
-{
-
-    name: 'DragonBall',
-    star: 2,
-    app: 'Download article',
-    desc: 'Download vnexpress articles',
-    strength: 'Python',
-    location: 'Finland',
-    git: 'https://github.com/Ihsara/rescue_tl_vnexpress',
-    demo: '',
-    hire: ''
-}
-,
-{
 name: 'Aya of the Ocean',
 star: 4,
 app: 'Game theory course',
@@ -514,4 +506,7 @@ hire: ''
   color: #2c3e50;
   margin-top: 60px;
 }
+
+
+
 </style>
