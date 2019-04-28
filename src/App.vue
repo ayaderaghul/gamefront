@@ -191,7 +191,7 @@
 
       
       
-      I intend to create a flat hierarchy classroom that sparks and facillitates. <br><br>
+      I intend to create a flat hierarchy classroom that sparks and facillitates everyone's idea. It is a project that spawns projects. An incubation house. In that garden, I sow my own project: a game theory class. <br><br>
 
       What is The League? The League comprises of members who do projects. <br>
       Why hire The League? Trust me, it is time for heavy R&D to meet the industry. <br>
