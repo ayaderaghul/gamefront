@@ -74,21 +74,28 @@
       <figure class="image" style="width:100%;height:25%;overflow:hidden">
 	<img src="https://images.pexels.com/photos/4075/nature-walking-animal-strong.jpg?auto=compress&cs=tinysrgb&h=650&w=940">
       </figure>
-      
+      <b> Introduction </b>
+      <ul>
+	<li><a href="http://evolutionary-gametheory.herokuapp.com/"> A game matrix</a></li>
+	<li><a href="http://evolutionary-gametheory.herokuapp.com/game">Nash equilibrium of Prisoner's Dilemma</a></li>
+	<li><a href="http://evolutionary-gametheory.herokuapp.com/repeated">The repeated game</a></li>
+	</ul>
       <b> Strategy representation </b>
       <ul>
-	<li>Finite state machine</li>
+	<li><a href="http://evolutionary-gametheory.herokuapp.com/representation">Finite state machine: Tit for Tat and Grim Trigger</a></li>
+	<li> <a href="http://evolutionary-gametheory.herokuapp.com/representation2">FSM in the Nash Demand Game</a></li>
 	<li>Probabilistic machine </li>
 </ul>
 <b> Evolutionary algorithm </b>		  
 <ul>
+  <li><a href="http://evolutionary-gametheory.herokuapp.com/cycle">Cycle</a></li>
 <li> Matching phase</li>
 <li>Learning phase</li>
 <li>Mutation phase</li>
 </ul>
 <b> Simulation configuration </b>
 <ul>
-  <li> Payoff calculation </li>
+  <li><a href="http://evolutionary-gametheory.herokuapp.com/payoff"> Payoff calculation </a></li>
   <li> Initial configurations </li>
 <li> </li>
 <li> </li>
@@ -211,15 +218,23 @@
     </div>
     <div class="message-body">
 
-      <p>We have 100 and growing. Areas: Aerospace, RL, Robotics, Security, 5G, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
-      <p style="color:crimson">  Guys, the "Guys, let's freaking do a HACKATHON this week" Hackathon starts <a href="https://personal-blog-site--ayaderaghul.repl.co/">here</a>
-<br>
-Remember, 10 points for each quark :) And don't break the laws of physics. Happy Hacking !  </p> <br>
-      <p style="color:crimson"> Meetup: Sunday 28/4 3PM (Rome time). <br>Topic: Let's get users and think about raising and allocating capital. </p>
+      <p>We have 100 and growing. Areas: Aerospace, RL, Security, 5G, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
+       <br>
+      <p style="color:crimson">
+	Weekly hackathon: Friday + Saturday on Game theory<br>
+	Weekly meetup: Sunday 10am Rome time
+      </p>
       <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA on Discord</a>
 
-      <p> Past weekly events: 1. Code review. 2. Project pitch. 3. Update The League / Cập nhật Phong Thần Bảng </p>
+      <p> Past weekly events: <br>
+	Week 1. Code review. <br>
+	2. Project pitch. <br>
+	3. Update The League / Cập nhật Phong Thần Bảng <br>
+	4. The "Guys, let's freaking do a HACKATHON this week" <a href="https://personal-blog-site--ayaderaghul.repl.co/">Hackathon</a>, and <a href="https://personal-blog-site-1--ayaderaghul.repl.co/">result</a>. Everybody deployed their first app. No one broke the laws of physics. <br>
+	4.1. Hackathon discussion and project brainstorming<br>
+	4.2. Extra call: Simulations of drone, prothestic leg and population game. <br><br>
+	
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
       
@@ -351,18 +366,18 @@ app: 'RL for drone',
 desc: "Because it is challenging.",
 strength: 'Aerospace engineering',
 location: 'France',
-git: '#',
+git: 'https://github.com/nim8u5',
 demo: '#',
 },
 
 {
 name: 'nextR2D2',
 star: 4,
-app: 'RL to train prosthetic model ',
+app: 'RL to train simulated prosthetic model ',
 desc: "So that it can walk.",
 strength: 'RL, CS',
 location: 'France',
-git: '#',
+git: 'http://github.com/toanngosy',
 demo: '#',
 },
 {
@@ -446,7 +461,7 @@ app: 'Help blind, deaf and disabled peole',
 desc: 'Voice recognition to help the blind and image recognition for the deaf to use body language',
 strength: 'Kotlin',
 location: 'Malaysia',
-git: '#',
+git: 'https://github.com/ducanh1794',
 demo: '#',
 hire: '#'
 
