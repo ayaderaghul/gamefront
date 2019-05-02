@@ -221,7 +221,7 @@
       <p>We have 100 and growing. Areas: Aerospace, RL, Security, 5G, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
        <br>
       <p style="color:crimson">
-	Guys, the "Guys, let's freaking do a HACKATHON this week" strats <a href="https://Personal-Blog-Site-2--ayaderaghul.repl.co">here</a>. The topic is on game theory, python and text matching.. is to help prepare you so that you can come into the industry swinging.
+	Guys, the "Guys, let's freaking do a HACKATHON this week" starts <a target="_blank" href="https://Personal-Blog-Site-2--ayaderaghul.repl.co">here</a>. The topic is on game theory, python and text matching.. is to help prepare you so that you can come into the industry swinging.
 	
       </p>
       <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
