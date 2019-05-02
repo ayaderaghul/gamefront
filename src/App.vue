@@ -221,8 +221,8 @@
       <p>We have 100 and growing. Areas: Aerospace, RL, Security, 5G, Data (DA, DS, BI), AI (ML, DL, Computer Vision), Trading/Quant, Maths, Physics, Game theory, web dev, blockchain, Linux, programming. </p>
        <br>
       <p style="color:crimson">
-	Weekly hackathon: Friday + Saturday on Game theory<br>
-	Weekly meetup: Sunday 10am Rome time
+	Guys, the "Guys, let's freaking do a HACKATHON this week" strats <a href="https://Personal-Blog-Site-2--ayaderaghul.repl.co">here</a>. The topic is on game theory, python and text matching.. is to help prepare you so that you can come into the industry swinging.
+	
       </p>
       <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA on Discord</a>
@@ -233,7 +233,12 @@
 	3. Update The League / Cập nhật Phong Thần Bảng <br>
 	4. The "Guys, let's freaking do a HACKATHON this week" <a href="https://personal-blog-site--ayaderaghul.repl.co/">Hackathon</a>, and <a href="https://personal-blog-site-1--ayaderaghul.repl.co/">result</a>. Everybody deployed their first app. No one broke the laws of physics. <br>
 	4.1. Hackathon discussion and project brainstorming<br>
-	4.2. Extra call: Simulations of drone, prothestic leg and population game. <br><br>
+	4.2. Extra call: Simulations of drone, prothestic leg and population game. <br>
+
+	5.1. Call on simulations of training drone in RL with simulation environment.<br>
+	5.2. Showcase the flying drone which is stable now and can reach target<br>
+	<iframe width="560" height="315" style="height:315px !important;" src="https://www.youtube.com/embed/9IvFGEg9ErI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<br>
 	
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
@@ -520,7 +525,7 @@ hire: '#'
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 
 
