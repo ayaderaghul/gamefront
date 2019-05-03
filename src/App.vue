@@ -167,14 +167,9 @@
 		<b>App</b>	{{card.app}} <br>
 <b>Description</b> {{card.desc}}<br>
 <b>Strength</b> {{card.strength}} <br>
-
+<b>Location</b> {{card.location}}<br>
 	    </div>
 	  </div>
-	  <footer class="card-footer">
-	    <p class="card-footer-item"> {{ card.location }} </p>
-	    <a :href="card.git" target="_blank" class="card-footer-item">Git</a>
-	    <a :href="card.demo" target="_blank" class="card-footer-item">Demo</a>
-	  </footer>
 	  </div>
 </div>
 	  
@@ -235,11 +230,14 @@
 	4.1. Hackathon discussion and project brainstorming<br>
 	4.2. Extra call: Simulations of drone, prothestic leg and population game. <br>
 
-	5.1. Call on simulations of training drone in RL with simulation environment.<br>
-	5.2. Showcase the flying drone which is stable now and can reach target<br>
+	5. Call on simulations of training drone in RL with simulation environment.<br>
+	5.1. Showcase the flying drone which is stable now and can reach target<br>
 	<iframe width="560" height="315" style="height:315px !important;" src="https://www.youtube.com/embed/9IvFGEg9ErI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<br>
+	5.2. Hackathon 2 showcase: <a href="https://github.com/toanngosy/robustprosthetics" target="_blank">robust prosthestic leg</a>, <a href="https://github.com/nim8u5/AyaHackathon/blob/master/03_05_2019/q_learning.py" target="_blank">q-learning for OpenAI cart pole</a>, <a href="https://github.com/nim8u5/AyaHackathon/blob/master/03_05_2019/text_matching.py" target="_blank">a text processing function that tolerate dyslexia</a>..
 	
+	
+	<br>
       <p>If you don't have something concrete yet, join and comment on others. Trust me, everyone gets something to say the second time.
 </p>
       
@@ -275,82 +273,10 @@
 
   
 
-	      <div class="container">
-	<h2 class="title notification is-dark"> PRICING </h2>
-
-  <div class="pricing-table">
-  <div class="pricing-plan">
-    <div class="plan-header">White belt</div>
-    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>0</span>/month</div>
-    <div class="plan-items">
-      <div class="plan-item">Half course</div>
-      <div class="plan-item">Discord community</div>
-      <div class="plan-item">1 group meet / week</div>
-      <div class="plan-item">-</div>
-            <div class="plan-item">-</div>
-
-    </div>
-    <div class="plan-footer">
-      <button class="button is-fullwidth" disabled="disabled">Current plan</button>
-    </div>
-  </div>
-
-  <div class="pricing-plan is-warning">
-    <div class="plan-header">Yellow belt</div>
-    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>10</span>/month</div>
-    <div class="plan-items">
-      <div class="plan-item">Full course</div>
-      <div class="plan-item">Discord community</div>
-      <div class="plan-item">1 group meet / week</div>
-      <div class="plan-item">Join The League</div>
-            <div class="plan-item">-</div>
-
-    </div>
-    <div class="plan-footer">
-      <button class="button is-fullwidth">Choose</button>
-    </div>
-  </div>
-
-  <div class="pricing-plan is-active">
-    <div class="plan-header">Green belt</div>
-    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>60</span>/month</div>
-    <div class="plan-items">
-      <div class="plan-item">Full course</div>
-      <div class="plan-item">Discord community</div>
-      <div class="plan-item"> 1 group meet / week</div>
-      <div class="plan-item"> Join The League</div>
-      <div class="plan-item"> 1 private session / month</div>
-    </div>
-    <div class="plan-footer">
-      <button class="button is-fullwidth">Choose</button>
-    </div>
-  </div>
-
-  <div class="pricing-plan is-danger">
-    <div class="plan-header">Red belt</div>
-    <div class="plan-price"><span class="plan-price-amount"><span class="plan-price-currency">$</span>100</span>/month</div>
-    <div class="plan-items">
-      <div class="plan-item">Full course</div>
-      <div class="plan-item">Discord community</div>
-      <div class="plan-item">1 group meet / week</div>
-            <div class="plan-item">Join The League</div>
-
-
-      <div class="plan-item">1 private session / week</div>
-      <div class="plan-item"></div>
-    </div>
-    <div class="plan-footer">
-      <button class="button is-fullwidth">Choose</button>
-    </div>
-  </div>
-</div>
-
-	
-	<a class="button is-warning" target="_blank" href="https://paypal.me/buymeahotchocolate?locale.x=en_US">&#9829; buy me a coffee &#9829;</a>
       </div>
 </div>      
       <router-view/>
-<!--      <a href="http://www.freepik.com"><i>(Logo designed by Freepik)</i></a><br> -->
+
       <i> I (and we) keep good practices to comply with privacy laws, and laws in general. </i>
       </div>
 
