@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="text-body">
   <p>Guys, can I publish your papers on the web?</p>
   <ul>
        <li>5 hole air probe for calculating aeroplane posture during flight - University science contest</li>

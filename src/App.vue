@@ -21,7 +21,7 @@
   <nav class="navbar is-warning"> <router-link to="/" class="button is-warning">showcase</router-link><router-link to="/theleague" class="button is-warning">the league</router-link><router-link to="/hackathon" class="button is-warning">hackathon</router-link> <router-link to="/gametheory" class="button is-warning">game theory</router-link><router-link to="/essay" class="button is-warning">essays</router-link><router-link to="/paper" class="button is-warning">papers </router-link><router-link to="/aboutus" class="button is-warning">about us</router-link> </nav>
 
     <article class="message is-light">
-    <div class="message-body">
+    <div class="message-body text-body">
         <p style="color:crimson">
 	HOT: Guys, the "Guys, let's freaking do a HACKATHON this week" 2 starts <a target="_blank" href="https://Personal-Blog-Site-2--ayaderaghul.repl.co">here</a>. The topic is on game theory, python and text matching.. is to help prepare you so that you can come into the industry swinging.
 	

@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <article>
+    <article class="text-body">
       <h2 class="title is-4"> Screencast for the Python quest </h2>
       <h3 class="subtitle">Nimbus contribution</h3>
 
@@ -37,9 +37,9 @@
       
       
     </article>
+    <br><br>
     
-    
-        <article>
+        <article class="text-body">
       <h2 class="title is-4"> "Guys, let's freaking do a HACKATHON this week" 2</h2>
       <div class="columns">
 	<div class="column">
@@ -52,7 +52,7 @@
     </article>
 
     <br><br>
-    <article>
+    <article class="text-body">
       <h2 class="title is-4"> "Guys, let's freaking do a HACKATHON this week" 1</h2>
       <div class="columns">
 	<div class="column">

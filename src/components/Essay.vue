@@ -2,7 +2,7 @@
   <div>
 
 
-          <article>
+          <article class="text-body">
 
       <h2 class="title is-4">Life</h2>
       <h2 class="subtitle">Letter to Pioneer Advisor 3</h2>
@@ -19,7 +19,7 @@ We thank you for your help!
     </article>
     <br><br>
     
-      <article>
+      <article class="text-body">
 
       <h2 class="title is-4">On hard problems</h2>
       <h2 class="subtitle">Letter to Pioneer Advisor 2</h2>
@@ -37,7 +37,7 @@ We thank you for your help!
       </article>
     <br><br>
 
-      <article>
+    <article class="text-body">
 
       <h2 class="title is-4">Pioneer Advisor 1 answers</h2>
 
@@ -69,7 +69,7 @@ Just do it! And keep doing it. Eventually you'll overcome it. Everyone is wingin
 </article>
   <br><br>
 
-    <article>
+    <article class="text-body">
 
       <h2 class="title is-4">People like you</h2>
       <h3 class="subtitle">Letter to Pioneer Advisor 1 </h3>
@@ -87,9 +87,10 @@ We thank you for your help :)
 
 </div>
 </template>
-<style scoped>
-  article {
+<style>
+  .text-body {
   width: 70%;
+max-width: 800px;
   margin-left: 15%;
   }
 </style>

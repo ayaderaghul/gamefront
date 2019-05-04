@@ -7,7 +7,7 @@
     <h1 class="title is-1"> SOCIETY IN SIMULATI&#9881;N  </h1>
 <h2 class="subtitle"> wanna code a population of finite state machines playing games ? <br> with stochasmagically intelligent agents ? in LISP ? </h2>
 
-  <div class="columns is-multiline">
+  <div class="columns is-multiline text-body">
     <div class="column is-half">
 
       

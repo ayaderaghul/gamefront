@@ -1,5 +1,5 @@
 <template>
-  	      <div class="container">
+  	      <div class="container text-body">
 
 
     <article class="message is-light">
