@@ -51,5 +51,6 @@ export default new Router({
 		}
 
 
-    ]
+    ],
+    linkActiveClass: 'is-active'
 })

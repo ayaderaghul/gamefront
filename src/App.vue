@@ -49,7 +49,6 @@ export default {
   name: 'App',
 data () {
     return {
-
 }
 },
 
@@ -66,7 +65,6 @@ data () {
   color: #2c3e50;
 
 }
-
 
 
 </style>
