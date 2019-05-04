@@ -9,8 +9,8 @@
 
 	<i class="fab fa-wolf-pack-battalion" style="font-size: 15em"></i><br><br>
 	    <h1 class="title is-1"> LONE W&#9881;LF?  </h1>
-
-<a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
+	    
+	    <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA</a>
 
 </div>
@@ -18,7 +18,7 @@
 
 </section>
 
-  <nav class="navbar is-warning"> <router-link to="/" class="button is-warning">showcase</router-link><router-link to="/theleague" class="button is-warning">the league</router-link><router-link to="/hackathon" class="button is-warning">hackathon</router-link> <router-link to="/gametheory" class="button is-warning">game theory</router-link><router-link to="/essay" class="button is-warning">essays</router-link><router-link to="/aboutus" class="button is-warning">about us</router-link> </nav>
+  <nav class="navbar is-warning"> <router-link to="/" class="button is-warning">showcase</router-link><router-link to="/theleague" class="button is-warning">the league</router-link><router-link to="/hackathon" class="button is-warning">hackathon</router-link> <router-link to="/gametheory" class="button is-warning">game theory</router-link><router-link to="/essay" class="button is-warning">essays</router-link><router-link to="/paper" class="button is-warning">papers </router-link><router-link to="/aboutus" class="button is-warning">about us</router-link> </nav>
 
     <article class="message is-light">
     <div class="message-body">
@@ -33,7 +33,7 @@
   <div class="container">
     <router-view />
   </div>
-  
+<br><br>  
   
   <div class="container">
        <i> I (and we) keep good practices to comply with privacy laws, and laws in general. </i>

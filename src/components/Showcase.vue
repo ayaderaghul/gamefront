@@ -5,7 +5,7 @@
       <div class="column is-one-third showcase" v-for="app in apps">
 
 	<iframe :src="app.url" v-if="app.url"></iframe>
-	<a :href="app.git" v-if="app.git">git repo</a>
+	<a target="_blank" :href="app.git" v-if="app.git">git repo</a>
 	<img :src="app.imgurl" v-if="app.imgurl">
 	<br>
 	      {{app.desc}} 
@@ -82,6 +82,10 @@ let showcase = [
     {
 	url: "https://www.youtube.com/embed/AMXWKmNIX5U",
 	desc: "solve stag hunt game",
+    },
+    {
+	imgurl: "https://cdn.discordapp.com/attachments/561592465744855042/574287817388326923/38003788_2169977639946318_574203716924604416_n.jpg",
+	desc: "romas"
 	}
     
 ]

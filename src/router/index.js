@@ -6,6 +6,7 @@ import Theleague from '@/components/Theleague'
 import Hackathon from '@/components/Hackathon'
 import Curriculumn from '@/components/Curriculumn'
 import Essay from '@/components/Essay'
+import Paper from '@/components/Paper'
 import Aboutus from '@/components/Aboutus'
 
 Vue.use(Router)
@@ -38,6 +39,11 @@ export default new Router({
 		    name: 'Essay',
 		    component: Essay
 		},
+	{
+	    path: '/paper',
+	    name: 'Paper',
+	    component: Paper
+	},
 		{
 		    path: '/aboutus',
 		    name: 'Aboutus',
