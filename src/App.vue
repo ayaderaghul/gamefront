@@ -66,5 +66,17 @@ data () {
 
 }
 
+@media screen and (max-width: 600px) {
+       .text-body {
+width: 98% !important;
+margin: 1% !important;	  
+}      		  
+}
+
+@media screen and (min-width: 1000px) {
+       .navbar {
+padding-left: 20% !important;
+}
+}
 
 </style>

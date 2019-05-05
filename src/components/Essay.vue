@@ -90,7 +90,8 @@ We thank you for your help :)
 <style>
   .text-body {
   width: 70%;
-max-width: 800px;
+  max-width: 800px;
   margin-left: 15%;
   }
+  
 </style>

@@ -85,7 +85,7 @@ let showcase = [
     },
     {
 	imgurl: "https://cdn.discordapp.com/attachments/561592465744855042/574287817388326923/38003788_2169977639946318_574203716924604416_n.jpg",
-	desc: "romas"
+	desc: "untitled"
 	}
     
 ]
