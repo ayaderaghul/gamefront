@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import App from '@/App'
+import Hello from '@/components/HelloWorld'
 import Showcase from '@/components/Showcase'
 import Theleague from '@/components/Theleague'
 import Hackathon from '@/components/Hackathon'
@@ -39,18 +40,16 @@ export default new Router({
 		    name: 'Essay',
 		    component: Essay
 		},
-	{
-	    path: '/paper',
-	    name: 'Paper',
-	    component: Paper
-	},
+		{
+		    path: '/paper',
+		    name: 'Paper',
+		    component: Paper
+		},
 		{
 		    path: '/aboutus',
 		    name: 'Aboutus',
 		    component: Aboutus
 		}
-
-
     ],
     linkActiveClass: 'is-active'
 })
