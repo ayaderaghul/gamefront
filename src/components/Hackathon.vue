@@ -1,6 +1,20 @@
 <template>
   <div>
 
+            <article class="text-body">
+      <h2 class="title is-4"> "Guys, let's freaking do a HACKATHON this week" 3</h2>
+      <div class="columns">
+	<div class="column">
+	  <iframe src="https://Personal-Blog-Site-4--ayaderaghul.repl.co"></iframe>
+	</div>
+	<div class="column">
+	  <iframe src="https://Personal-Blog-Site-5--ayaderaghul.repl.co"></iframe>
+	  </div>
+	</div>
+    </article>
+<br><br>
+    
+    
     <article class="text-body">
       <h2 class="title is-4"> Screencast for the Python quest </h2>
       <h3 class="subtitle">Nimbus contribution</h3>

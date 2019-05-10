@@ -27,6 +27,11 @@
 
 <script>
 let showcase = [
+        {
+	url: "https://freward.herokuapp.com/#/",
+	desc: 'Reinforcement learning blog, the journey of our drone training'
+    },
+
     {
 	url: "https://www.youtube.com/embed/9IvFGEg9ErI",
 	desc: 'Drone simulation in Python, RL (DDPG)'

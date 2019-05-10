@@ -23,7 +23,7 @@
     <article class="message is-light">
     <div class="message-body text-body">
         <p style="color:crimson">
-	HOT: Guys, the "Guys, let's freaking do a HACKATHON this week" 2 starts <a target="_blank" href="https://Personal-Blog-Site-2--ayaderaghul.repl.co">here</a>. The topic is on game theory, python and text matching.. is to help prepare you so that you can come into the industry swinging.
+	HOT: Guys, the "Guys, let's freaking do a HACKATHON this week" 3 starts <a target="_blank" href="https://Personal-Blog-Site-4--ayaderaghul.repl.co">here</a>. This time we converse about the poetry of S-expressions<br>
 	
       </p>
     </div>

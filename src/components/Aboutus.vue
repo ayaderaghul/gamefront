@@ -38,7 +38,7 @@
 </p>
       
 
-  <i>    I warmly welcome: Racketeers, Vietnam AI in Europe, Sinh vien IT tai Duc, slack WeBuildVietnam, Pioneer pool. I actively seek non-Vietnamese members and female members
+  <i>    I warmly welcome: Racketeers, Vietnam AI in Europe, Sinh vien IT tai Duc, slack WeBuildVietnam, Pioneer pool, VietnamGophers. I actively seek non-Vietnamese members and female members
     </i>  
     </div>
     </article>
@@ -59,7 +59,7 @@
 
 	5. Call on simulations of training drone in RL with simulation environment.<br>
 	5.1. Showcase the flying drone which is stable now and can reach target<br>
-
+	5... WE LIVE ON THE SERVER NOW !!!<br>
 	
 	
 	<br>
@@ -68,21 +68,6 @@
   </article>
 
 
-    <article class="message is-light">
-    <div class="message-header">
-<p> How to get more stars?</p>
-      <button class="delete" aria-label="delete"></button>
-    </div>
-    <div class="message-body">
-
-      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo and a README that describes your project <br>
-      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo and a demo herokuapp <br>
-      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo, a demo herokuapp, and 5 users <br>
-      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> You have a git repo with the README that can help me set up and test your code, a functional herokuapp, 10 users and you start to get money/resource <br>
-      <i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i><i class="fas fa-star icon-star icon-large icon-d" style="color:yellow"></i> The above + you do something real cool
-      
-    </div>
-  </article>
 
   
 
