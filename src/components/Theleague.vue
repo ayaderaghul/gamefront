@@ -96,8 +96,30 @@ demo: 'https://gametheoryclass.herokuapp.com/',
 hire: ''
 },
 
+{
+name: 'DragonBall',
+star: 2,
+app: 'Asian chess',
+desc: 'Drag and drop UI for chess',
+strength: 'Django',
+location: 'Finland',
+git: 'https://github.com/Ihsara/cotuong.py',
+demo: '',
+hire: ''
+
+},
+
+{
+name: 'Great_Bear',
+star: 4,
+app: 'Sinh vien IT tai Duc group',
+desc: 'I admin 1400 members - IT students in Germany',
+strength: 'Maths',
+location: 'Vietnam-Germany',
 
 
+}
+,
 {
 name: 'BKVoDich',
 star: 2,
@@ -109,30 +131,7 @@ git: '#',
 demo: '#',
 hire: '#'
 },
-{
-name: 'Great_Bear',
-star: 3,
-app: 'Sinh vien IT tai Duc group',
-desc: 'I admin 1400 members - IT students in Germany',
-strength: 'Maths',
-location: 'Vietnam-Germany',
 
-
-}
-,
-{
-name: 'B8',
-star: 4,
-app: 'Bank, creditscore and blockchain',
-desc: 'Talk to him, and he opens up :)',
-strength: 'Fintech',
-location: 'Canada',
-git: 'https://github.com/haardikk21',
-demo: '#',
-hire: '#'
-
-}
-    ,
     {
 name: 'StargateKeepers',
 star: 4,
@@ -157,6 +156,18 @@ hire: '#'
 
 }
 ,
+{
+name: 'Asgardians',
+star: 4,
+app: 'Crypto Exchange',
+desc: 'Backend server "https://github.com/beesEX/be" ',
+strength: 'JS',
+location: 'Germany',
+git: 'https://github.com/ducanh1794',
+demo: '#',
+hire: '#'
+
+},
 { 
 name: 'DarkLord',
 star: 2,
@@ -168,18 +179,20 @@ git: '#',
 demo: '#', 
 hire: '#'
 },
+
 {
-name: 'DragonBall',
-star: 2,
-app: 'Asian chess',
-desc: 'Disclose after Pioneer tournament :-p',
-strength: 'Django',
-location: 'Finland',
-git: 'https://github.com/Ihsara/cotuong.py',
-demo: '',
-hire: ''
+name: 'B8',
+star: 4,
+app: 'Bank, creditscore and blockchain',
+desc: 'Talk to him, and he opens up :)',
+strength: 'Fintech',
+location: 'Canada',
+git: 'https://github.com/haardikk21',
+demo: '#',
+hire: '#'
 
 }
+    
 
 ]
 

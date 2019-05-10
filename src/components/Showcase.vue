@@ -5,7 +5,7 @@
       <div class="column is-one-third showcase" v-for="app in apps">
 
 	<iframe :src="app.url" v-if="app.url"></iframe>
-	<a target="_blank" :href="app.git" v-if="app.git">git repo</a>
+	<a target="_blank" :href="app.git" v-if="app.git">git repo/repl.it</a>
 	<img :src="app.imgurl" v-if="app.imgurl">
 	<br>
 	      {{app.desc}} 
@@ -78,6 +78,11 @@ let showcase = [
 	tool: 'Django, Heroku',
 	comment: 'Have faith',
 	url: "https://leso-tanvan.herokuapp.com/"
+    },
+    {
+	name: 'Asgardians',
+	desc: 'Backend server for cryptoexchange platform ',
+	git: "https://github.com/beesEX/be"
     },
 
     {
