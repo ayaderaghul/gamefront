@@ -41,6 +41,14 @@ let showcase = [
 
 	desc: 'Q-learning for OpenAI cartpole'
     },
+
+    {
+	git: "https://github.com/M0nsoon/Hackathon/blob/master/Fibo/Fibonacci.scala",
+	desc: "Tail recursion for Fibonacci in Scala",
+	
+    }
+    
+    ,
     {
 	git: "https://github.com/nim8u5/AyaHackathon/blob/master/03_05_2019/text_matching.py" ,
 	desc: 'Python text matching function that tolerates dyslexia'
@@ -70,7 +78,7 @@ let showcase = [
 	desc: 'Pythagore calculation hosted on repl.it :D',
 	tool: 'JS, repl.it',
 	comment: 'cool huh?',
-	url: "https://calculate-diagonal.shithitthefan.repl.run/"
+	git: "https://calculate-diagonal.shithitthefan.repl.run/"
     },
     {
 	name: 'GlitteringGazzelle',
@@ -78,6 +86,17 @@ let showcase = [
 	tool: 'Django, Heroku',
 	comment: 'Have faith',
 	url: "https://leso-tanvan.herokuapp.com/"
+    },
+
+    {
+	desc: 'English learning page',
+	url: 'https://thomasrn.github.io/'
+    },
+    
+    {
+	name: 'BB',
+	desc: 'Blockchain blog',
+	git: "https://medium.com/@haardikk21/understanding-algorand-the-blockchain-which-claims-to-solve-the-trilemma-56f4c3ef0e81?sk=19592a7fe54081815a8bf058cff19eca"
     },
     {
 	name: 'Asgardians',
