@@ -23,7 +23,9 @@
     <article class="message is-light">
     <div class="message-body text-body">
         <p style="color:crimson">
-	HOT: Guys, the "Guys, let's freaking do a HACKATHON this week" 3 starts <a target="_blank" href="https://Personal-Blog-Site-4--ayaderaghul.repl.co">here</a>. This time we converse about the poetry of S-expressions<br>
+	  HOT: hackathon 4 start <a href="https://github.com/ayaderaghul/randomSen" target="_blank">here</a> @everyone !! writing a function to generate random text
+
+<br>
 	
       </p>
     </div>

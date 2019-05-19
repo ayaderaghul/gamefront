@@ -41,7 +41,16 @@ let showcase = [
 
 	desc: 'Q-learning for OpenAI cartpole'
     },
-
+    {
+    git: "https://github.com/dreadlock/randomSen/blob/master/main.py",
+	desc: 'Generate random sentence, Markov chain: Python'
+    }
+    ,
+    {
+	git: "https://github.com/dreadlock/randomSen/blob/master/main.py",
+	desc: 'Generate random sentence, Markov chain: Scala'
+    }
+    ,
     {
 	git: "https://github.com/M0nsoon/Hackathon/blob/master/Fibo/Fibonacci.scala",
 	desc: "Tail recursion for Fibonacci in Scala",

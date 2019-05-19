@@ -1,6 +1,21 @@
 <template>
   <div>
 
+                <article class="text-body">
+      <h2 class="title is-4"> "Guys, let's freaking do a HACKATHON this week" 4</h2>
+      <div class="columns">
+	<div class="column">
+	  <a target="_blank" href="https://github.com/ayaderaghul/randomSen">Click for git repo</a>
+	</div>
+	<div class="column">
+	  <iframe src="https://Personal-Blog-Site-6--ayaderaghul.repl.co"></iframe>
+	  </div>
+	</div>
+    </article>
+<br><br>
+
+    
+    
             <article class="text-body">
       <h2 class="title is-4"> "Guys, let's freaking do a HACKATHON this week" 3</h2>
       <div class="columns">
