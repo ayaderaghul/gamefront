@@ -6,9 +6,11 @@
     
     <div class="hero-body">
       <div class="container has-text-centered">
+<!-- <img src="../assets/g4109.png"> 
+	<i class="fab fa-wolf-pack-battalion" style="font-size: 15em"></i> --> <br><br>
+	 <h1 class="title is-1"> LONE W&#9881;LF?  </h1> 
 
-	<i class="fab fa-wolf-pack-battalion" style="font-size: 15em"></i><br><br>
-	    <h1 class="title is-1"> LONE W&#9881;LF?  </h1>
+
 	    
 	    <a target="_blank" class="button is-warning" href="https://discord.gg/Jbjj6NS">
   Join #houseAYA</a>
